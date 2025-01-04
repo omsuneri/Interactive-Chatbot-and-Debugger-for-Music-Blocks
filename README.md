@@ -1,6 +1,5 @@
 # Interactive Chatbot and Debugger for Music Blocks
-
-**The Idea is to enhance the music blocks application with a chatbot feature and which can also debug your Music Blocks project.**
+**The idea is to enhance the music blocks application with a chatbot feature and which can also debug your Music Blocks project.**
 ## **Introduction**
 
 Hi, I'm Om Santosh Suneri, a passionate developer and musician pursuing a Bachelor's in Information Technology from Chandigarh, India. I thrive on blending my love for coding and music into something truly creative and meaningful.
