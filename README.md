@@ -2,7 +2,7 @@
 **The idea is to enhance the music blocks application with a chatbot feature and which can also debug your Music Blocks project.**
 ## **Introduction**
 
-Hi, I'm Om Santosh Suneri, a passionate developer and musician pursuing a Bachelor's in Information Technology from Chandigarh, India. I thrive on blending my love for coding and music into something truly creative and meaningful.
+Hi, I'm **Om Santosh Suneri**, a passionate developer and musician pursuing a Bachelor's in Information Technology from Chandigarh, India. I thrive on blending my love for coding and music into something truly creative and meaningful.
 
 You can find my contributions on my GitHub: https://github.com/omsuneri         
 My mailing address: omsuneri@gmail.com
