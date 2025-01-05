@@ -86,6 +86,7 @@ By merging intuitive guidance with robust debugging, this addition could transfo
 
 **4. Retrieval-Augmented Generation (RAG)**
 
+![Rag 2](https://hackmd.io/_uploads/ByweZcwL1e.png)
 * This module provides the chatbot with contextual knowledge that enhances the Large Language Model’s responses.
 * **Knowledge Resources**
     * A repository of relevant information for Music Blocks, including
