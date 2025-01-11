@@ -1,4 +1,4 @@
-# Interactive Chatbot and Debugger for Music Blocks
+# Interactive Chatbot and Debugger for Music Blocks ✨
 
 **The idea is to enhance the music blocks application with a chatbot feature and which can also debug your music blocks project.**
 
